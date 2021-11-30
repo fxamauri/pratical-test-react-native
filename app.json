@@ -1,0 +1,12 @@
+{
+  "name": "bookshelf-ubelix-test",
+  "displayName": "bookshelf-ubelix-test",
+  "expo": {
+    "name": "bookshelf-ubelix-test",
+    "slug": "bookshelf-ubelix-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
