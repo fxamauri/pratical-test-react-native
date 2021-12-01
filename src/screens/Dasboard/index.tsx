@@ -1,11 +1,7 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { DasboardRoutes } from '../../routes/dashboard.routes'
 
 export function Dashboard() {
-  return (
-      <View>
-          <Text>Dashboard</Text>
-      </View>
-  );
+  return <DasboardRoutes />;
 }
 
